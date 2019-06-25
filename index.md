@@ -43,7 +43,7 @@ https://www.eliostruyf.com/automate-publishing-process-of-mkdocs-to-static-websi
 ### 06/14/2019
 #### *Every time you say yes..*
 
-![Every time you say yes..](./img/everytimeyousayyes.png)
+![Every time you say yes..](img/everytimeyousayyes.png)
 
 ---
 
@@ -58,4 +58,4 @@ https://www.eliostruyf.com/automate-publishing-process-of-mkdocs-to-static-websi
 ### 05/16/2019
 #### *Six stages of debugging..*
 
-![Six stages of debugging](./img/debuggingstages.png)
+![Six stages of debugging](img/debuggingstages.png)
