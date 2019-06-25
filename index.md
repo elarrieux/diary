@@ -1,5 +1,14 @@
 # A .NET developer's daily journal
 
+### 06/25/3019
+#### *Building APIs Rapidly with Azure Functions - Lars Klint*
+
+https://www.youtube.com/watch?v=6_fSdnsjw8g
+
+### 06/25/3019
+#### *How to View the Definition of a Stored Procedure*
+
+https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/view-the-definition-of-a-stored-procedure?view=sql-server-2017
 
 ### 06/23/3019
 #### *Loading ASP.NET Core MVC Views From A Database Or Other Location*
