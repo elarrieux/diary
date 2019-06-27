@@ -13,7 +13,7 @@ https://github.com/jamesrcounts/usaddress
 ### 06/25/3019
 #### *Building APIs Rapidly with Azure Functions - Lars Klint*
 
-https://www.youtube.com/watch?v=6_fSdnsjw8g
+[![Building APIs Rapidly with Azure Functions - Lars Klint](http://img.youtube.com/vi/6_fSdnsjw8g/0.jpg)](http://www.youtube.com/watch?v=6_fSdnsjw8g)
 
 ### 06/24/3019
 #### *How to View the Definition of a Stored Procedure*
