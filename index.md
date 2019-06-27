@@ -45,7 +45,7 @@ https://docs.microsoft.com/en-us/visualstudio/ide/reference/extract-interface?vi
 ### 06/16/2019
 #### *Azure Scaling Up And Out*
 
-https://youtu.be/DY5ZHMDZv94
+[![Azure Scaling Up And Out](http://img.youtube.com/vi/DY5ZHMDZv94/0.jpg)](http://www.youtube.com/watch?v=DY5ZHMDZv94)
 
 ### 06/15/2019
 #### *High performance image processing with Image Resizer and Azure*
