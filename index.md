@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 06/27/3019
+#### *Crash, Burn, Report - Scott Helme*
+
+https://www.youtube.com/watch?v=wSSwuqwqNs0
 
 ### 06/26/3019
 #### *A partial port of the Perl Geo::StreetAddress::US CPAN module to C#*
