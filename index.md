@@ -5,6 +5,9 @@
 
 https://chrissainty.com/using-blazor-components-in-an-existing-mvc-application
 
+#### *Visual Studio tips and tricks*
+https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks/
+
 ### 06/27/2019
 #### *Crash, Burn, Report - Scott Helme*
 
