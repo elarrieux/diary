@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 07/04/2019
+#### *Top 5 VS Code Extensions for Efficient JavaScript Development*
+
+https://www.telerik.com/blogs/top-5-vs-code-extensions-for-efficient-javascript-development
+
 ### 07/03/2019
 #### *Get Real-Time SMS Error Messages from ASP.NET Core Web Apps with elmah.io and Twilio*
 
