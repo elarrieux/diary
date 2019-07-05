@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 07/05/2019
+#### *SQL – Using CASE with ORDER BY in Stored Procedures*
+
+http://dbadiaries.com/sql-using-case-with-order-by-in-stored-procedures/
+
 ### 07/04/2019
 #### *Top 5 VS Code Extensions for Efficient JavaScript Development*
 
