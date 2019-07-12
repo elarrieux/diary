@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 07/12/2019
+#### *Updated shortcuts cheat sheet — Now with Azure Data Studio*
+
+https://am2.co/2018/02/updated-cheat-sheet/
+
 ### 07/05/2019
 #### *SQL – Using CASE with ORDER BY in Stored Procedures*
 
