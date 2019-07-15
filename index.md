@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 07/15/2019
+#### *Creating NuGet Packages the easy way with .NET Standard in C#*
+
+[![Creating NuGet Packages the easy way with .NET Standard in C#](http://img.youtube.com/vi/AF1y9gLcxjQ/0.jpg)](http://www.youtube.com/watch?v=AF1y9gLcxjQ)
+
 ### 07/12/2019
 #### *Updated shortcuts cheat sheet — Now with Azure Data Studio*
 
