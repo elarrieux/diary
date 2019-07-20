@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 07/21/2019
+#### *Awesome .NET Core*
+
+https://github.com/thangchung/awesome-dotnet-core#tools
+
 ### 07/15/2019
 #### *Creating NuGet Packages the easy way with .NET Standard in C#*
 
