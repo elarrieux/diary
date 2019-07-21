@@ -1,5 +1,12 @@
 # A .NET developer's daily journal
 
+
+### 07/22/2019
+#### *Schema .NET*
+
+
+https://github.com/RehanSaeed/Schema.NET
+
 ### 07/21/2019
 #### *Awesome .NET Core*
 
