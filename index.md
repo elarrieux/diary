@@ -1,9 +1,12 @@
 # A .NET developer's daily journal
 
+### 07/29/2019
+#### *Secure Your ASP.NET Core App with OAuth 2.0*
+
+https://developer.okta.com/blog/2019/07/12/secure-your-aspnet-core-app-with-oauth
 
 ### 07/22/2019
 #### *Schema .NET*
-
 
 https://github.com/RehanSaeed/Schema.NET
 
