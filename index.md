@@ -1,5 +1,13 @@
 # A .NET developer's daily journal
 
+### 07/30/2019
+#### *How to serialize object from debugger*
+In the immediate window write:
+
+```c#
+System.IO.File.WriteAllText(@"C:\temp\dump.json", Newtonsoft.Json.JsonConvert.SerializeObject(<variable>));
+```
+
 ### 07/29/2019
 #### *Secure Your ASP.NET Core App with OAuth 2.0*
 
