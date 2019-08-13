@@ -1,5 +1,11 @@
 # A .NET developer's daily journal
 
+
+### 08/13/2019
+#### *Testing EventGridTrigger Azure Functions Locally (Without Using ngrok)*
+
+http://dontcodetired.com/blog/post/Testing-EventGridTrigger-Azure-Functions-Locally-(Without-Using-ngrok)
+
 ### 07/30/2019
 #### *How to serialize object from debugger*
 In the immediate window write:
