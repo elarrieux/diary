@@ -1,5 +1,23 @@
 # A .NET developer's daily journal
 
+### 10/02/2019
+#### *.NET Core API Conditional Authentication attributes for Development & Production*
+https://stackoverflow.com/questions/41577389/net-core-api-conditional-authentication-attributes-for-development-production
+
+#### *Mr. Data Converter*
+https://shancarter.github.io/mr-data-converter/
+
+#### *How to avoid storing secrets in the source code?*
+https://www.meziantou.net/how-to-avoid-storing-secrets-in-the-source-code.htm
+
+#### *Logging in C# .NET Modern-day Practices: The Complete Guide*
+https://michaelscodingspot.com/logging-in-dotnet/
+
+#### *Load Awesome Animations*
+https://github.danielcardoso.net/load-awesome/animations.html
+
+#### *DebuggerDisplayAttribute Class*
+https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.debuggerdisplayattribute?view=netframework-4.8
 
 ### 08/13/2019
 #### *Testing EventGridTrigger Azure Functions Locally (Without Using ngrok)*
