@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 10/07/2019
+#### *Experience*
+
+![Experience](img/experience.jpg)
+
 ### 10/02/2019
 #### *.NET Core API Conditional Authentication attributes for Development & Production*
 https://stackoverflow.com/questions/41577389/net-core-api-conditional-authentication-attributes-for-development-production
