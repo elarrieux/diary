@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 10/08/2019
+#### *Puppeteer Sharp*
+https://github.com/kblok/puppeteer-sharp
+
 ### 10/07/2019
 #### *Experience*
 
