@@ -1,8 +1,14 @@
 # A .NET developer's daily journal
 
 ### 10/11/2019
-#### *Use Azure Functions to process a CSV File and import data into Azure SQL*
+#### *Azure Functions*
 https://github.com/JeremyLikness/azure-fn-file-process-hol
+
+https://azure.microsoft.com/en-us/blog/a-fast-serverless-big-data-pipeline-powered-by-a-single-azure-function/
+
+https://medium.com/@rogger.rfs/azure-functions-v2-dependency-injection-via-constructor-80e27509b4fb
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices?WT.mc_id=ms-docs-kbaroni
 
 ### 10/08/2019
 #### *Puppeteer Sharp*
