@@ -1,12 +1,15 @@
 # A .NET developer's daily journal
 
+### 10/11/2019
+#### *Use Azure Functions to process a CSV File and import data into Azure SQL*
+https://github.com/JeremyLikness/azure-fn-file-process-hol
+
 ### 10/08/2019
 #### *Puppeteer Sharp*
 https://github.com/kblok/puppeteer-sharp
 
 ### 10/07/2019
 #### *Experience*
-
 ![Experience](img/experience.jpg)
 
 ### 10/02/2019
