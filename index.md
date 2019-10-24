@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 10/24/2019
+#### *JSONPath Online Evaluator*
+https://jsonpath.com/
+
 ### 10/11/2019
 #### *Azure Functions*
 https://github.com/JeremyLikness/azure-fn-file-process-hol
