@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 10/30/2019
+#### *Alternative approach to HttpClient in Azure Functions 2.0 revisited - move to dependency injection*
+https://www.tpeczek.com/2019/10/alternative-approach-to-httpclient-in.html
+
 ### 10/24/2019
 #### *JSONPath Online Evaluator*
 https://jsonpath.com/
