@@ -4,6 +4,9 @@
 #### *Alternative approach to HttpClient in Azure Functions 2.0 revisited - move to dependency injection*
 https://www.tpeczek.com/2019/10/alternative-approach-to-httpclient-in.html
 
+#### *Speed up ASP.NET Core WEB API application. Part 3*
+https://www.codeproject.com/Articles/4049519/Speed-up-ASP-NET-Core-WEB-API-application-Part-3
+
 ### 10/24/2019
 #### *JSONPath Online Evaluator*
 https://jsonpath.com/
