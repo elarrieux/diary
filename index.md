@@ -7,6 +7,9 @@ https://www.tpeczek.com/2019/10/alternative-approach-to-httpclient-in.html
 #### *Speed up ASP.NET Core WEB API application. Part 3*
 https://www.codeproject.com/Articles/4049519/Speed-up-ASP-NET-Core-WEB-API-application-Part-3
 
+#### *ApiBoilerPlate: A Project Template for Building ASP.NET Core APIs in .NET Core 3.x*
+https://www.codeproject.com/Articles/5247439/ApiBoilerPlate-A-Project-Template-for-Building-ASP
+
 ### 10/24/2019
 #### *JSONPath Online Evaluator*
 https://jsonpath.com/
