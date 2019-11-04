@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 11/04/2019
+#### *Play C# and Tensorflow.NET with Jupyter Notebook (Part 1)*
+https://medium.com/scisharp/play-c-and-tensorflow-net-with-jupyter-notebook-part-1-cdfb3f2f621
+
 ### 10/30/2019
 #### *Alternative approach to HttpClient in Azure Functions 2.0 revisited - move to dependency injection*
 https://www.tpeczek.com/2019/10/alternative-approach-to-httpclient-in.html
