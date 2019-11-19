@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 11/19/2019
+#### *ASP.NET Core 3.0 MVC Secure Authentication*
+https://developer.okta.com/blog/2019/11/15/aspnet-core-3-mvc-secure-authentication
+
 ### 11/04/2019
 #### *Play C# and Tensorflow.NET with Jupyter Notebook (Part 1)*
 https://medium.com/scisharp/play-c-and-tensorflow-net-with-jupyter-notebook-part-1-cdfb3f2f621
