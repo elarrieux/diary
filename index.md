@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+### 11/27/2019
+#### *Crontab testers*
+https://crontab.guru/
+http://cron.schlitt.info
+
 ### 11/19/2019
 #### *ASP.NET Core 3.0 MVC Secure Authentication*
 https://developer.okta.com/blog/2019/11/15/aspnet-core-3-mvc-secure-authentication
