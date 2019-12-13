@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 12/13/2019
+#### *Azure DevOps : Setting up and pushing nuget package*
+https://sachabarbs.wordpress.com/2019/12/10/azure-devops-setting-up-and-pushing-nuget-package/
+
 ### 11/27/2019
 #### *Crontab testers*
 https://crontab.guru/
