@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 12/18/2019
+#### *Clean Architecture Solution Template*
+https://github.com/JasonGT/CleanArchitecture
+
 ### 12/13/2019
 #### *Azure DevOps : Setting up and pushing nuget package*
 https://sachabarbs.wordpress.com/2019/12/10/azure-devops-setting-up-and-pushing-nuget-package/
