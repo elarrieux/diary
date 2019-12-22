@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 12/22/2019
+#### *Roslynator*
+https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019
+
 ### 12/18/2019
 #### *Clean Architecture Solution Template*
 https://github.com/JasonGT/CleanArchitecture
