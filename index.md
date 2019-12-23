@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 12/23/2019
+#### *How to use an OAuth based API in Vue.js?*
+https://dev.to/bearer/how-to-use-an-oauth-based-api-in-vue-js-1elo
+
 ### 12/22/2019
 #### *Roslynator*
 https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019
