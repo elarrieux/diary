@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 1/11/2020
+#### *Future Ready Blazor Application Architecture*
+https://www.c-sharpcorner.com/article/future-ready-blazor-application-architecture/
+
 ### 12/23/2019
 #### *How to use an OAuth based API in Vue.js?*
 https://dev.to/bearer/how-to-use-an-oauth-based-api-in-vue-js-1elo
