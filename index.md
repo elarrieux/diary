@@ -1,6 +1,9 @@
 # A .NET developer's daily journal
 
 ### 1/11/2020
+#### *Authentication & Authorization in ASP .NET Core 3.1*
+https://wakeupandcode.com/authentication-authorization-in-asp-net-core-3-1/
+
 #### *Future Ready Blazor Application Architecture*
 https://www.c-sharpcorner.com/article/future-ready-blazor-application-architecture/
 
