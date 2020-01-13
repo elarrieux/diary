@@ -4,6 +4,9 @@
 #### *Blazor workshop*
 https://github.com/dotnet-presentations/blazor-workshop/
 
+#### *Configure Full (Strict) Cloudflare SSL for an Azure App Service Website*
+https://markheath.net/post/cloudflare-azure-app-service
+
 ### 1/11/2020
 #### *Authentication & Authorization in ASP .NET Core 3.1*
 https://wakeupandcode.com/authentication-authorization-in-asp-net-core-3-1/
