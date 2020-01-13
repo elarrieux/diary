@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 1/13/2020
+#### *Blazor workshop*
+https://github.com/dotnet-presentations/blazor-workshop/
+
 ### 1/11/2020
 #### *Authentication & Authorization in ASP .NET Core 3.1*
 https://wakeupandcode.com/authentication-authorization-in-asp-net-core-3-1/
