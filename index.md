@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 1/14/2020
+#### *Microsoft Ignite*
+[![A developer's guide to Azure Cosmos DB from onboarding to going live in production](http://img.youtube.com/vi/HfnuD3R6mxo/0.jpg)](http://www.youtube.com/watch?v=HfnuD3R6mxo)
+
 ### 1/13/2020
 #### *Blazor workshop*
 https://github.com/dotnet-presentations/blazor-workshop/
