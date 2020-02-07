@@ -4,6 +4,9 @@
 #### *SQLite-net*
 https://github.com/praeclarum/sqlite-net
 
+#### *Windows Terminal Git*
+https://www.hanselman.com/blog/HowToMakeAPrettyPromptInWindowsTerminalWithPowerlineNerdFontsCascadiaCodeWSLAndOhmyposh.aspx
+
 ### 1/21/2020
 #### *JS LINQ Equivalents*
 https://jsfiddle.net/ardalis/esy9mgjr/1/
