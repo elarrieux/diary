@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 2/7/2020
+#### *SQLite-net*
+https://github.com/praeclarum/sqlite-net
+
 ### 1/21/2020
 #### *JS LINQ Equivalents*
 https://jsfiddle.net/ardalis/esy9mgjr/1/
