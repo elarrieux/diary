@@ -4,6 +4,8 @@
 #### *Building a multi layer .NET Core 3.0 API from zero*
 https://medium.com/swlh/building-a-nice-multi-layer-net-core-3-api-c68a9ef16368
 
+https://github.com/dodyg/practical-aspnetcore?WT.mc_id=-blog-scottha
+
 ### 2/7/2020
 #### *SQLite-net*
 https://github.com/praeclarum/sqlite-net
