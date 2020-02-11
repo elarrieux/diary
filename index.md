@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 2/11/2020
+#### *Building a multi layer .NET Core 3.0 API from zero*
+https://medium.com/swlh/building-a-nice-multi-layer-net-core-3-api-c68a9ef16368
+
 ### 2/7/2020
 #### *SQLite-net*
 https://github.com/praeclarum/sqlite-net
