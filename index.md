@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 3/24/2020
+#### *ASP.NET Core Guide for ASP.NET Framework Developers (appsettings)*
+https://exceptionnotfound.net/asp-net-core-guide-for-asp-net-framework-developers/
+
 ### 2/13/2020
 #### *Underdog features of the Azure Cosmos DB NET SDK*
 https://github.com/ealsur/ondotnet-cosmosdb
