@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 3/25/2020
+https://www.claudiobernasconi.ch/2020/03/14/how-to-migrate-an-asp-net-mvc-app-from-dotnet-core-2-2-to-dotnet-core-3-1/
+https://wakeupandcode.com/key-vault-for-asp-net-core-3-1-web-apps/
+
 ### 3/24/2020
 #### *ASP.NET Core Guide for ASP.NET Framework Developers (appsettings)*
 https://exceptionnotfound.net/asp-net-core-guide-for-asp-net-framework-developers/
