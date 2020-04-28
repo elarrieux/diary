@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 4/28/2020
+#### *Azure Functions – Time Trigger (CRON) Cheat Sheet*
+https://arminreiter.com/2017/02/azure-functions-time-trigger-cron-cheat-sheet/
+
 ### 3/25/2020
 https://www.claudiobernasconi.ch/2020/03/14/how-to-migrate-an-asp-net-mvc-app-from-dotnet-core-2-2-to-dotnet-core-3-1/
 https://wakeupandcode.com/key-vault-for-asp-net-core-3-1-web-apps/
