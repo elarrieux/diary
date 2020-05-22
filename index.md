@@ -1,5 +1,8 @@
 # A .NET developer's daily journal
 
+RegEx for finding missing ConfigureAwait
+    \bawait\b(?![^;]*ConfigureAwait)[^;]*;
+
 ### 4/28/2020
 #### *Azure Functions – Time Trigger (CRON) Cheat Sheet*
 https://arminreiter.com/2017/02/azure-functions-time-trigger-cron-cheat-sheet/
