@@ -1,6 +1,6 @@
 # A .NET developer's daily journal
 
-### 4/28/2020
+### 5/22/2020
 #### *RegEx for finding missing ConfigureAwait*
 `\bawait\b(?![^;]*ConfigureAwait)[^;]*;`
 
