@@ -5,6 +5,9 @@
 #### *The Easiest Way to Version NuGet Packages*
 https://rehansaeed.com/the-easiest-way-to-version-nuget-packages/
 
+#### *Awesome Blazor*
+https://github.com/AdrienTorris/awesome-blazor
+
 ### 5/22/2020
 #### *RegEx for finding missing ConfigureAwait*
 `\bawait\b(?![^;]*ConfigureAwait)[^;]*;`
