@@ -1,5 +1,10 @@
 # A .NET developer's daily journal
 
+
+### 7/7/2020
+#### *The Easiest Way to Version NuGet Packages*
+https://rehansaeed.com/the-easiest-way-to-version-nuget-packages/
+
 ### 5/22/2020
 #### *RegEx for finding missing ConfigureAwait*
 `\bawait\b(?![^;]*ConfigureAwait)[^;]*;`
