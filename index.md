@@ -1,5 +1,8 @@
 # A .NET developer's daily journal
 
+### 7/11/2020
+#### *How to Implement Azure Serverless with Blazor WebAssembly*
+https://www.freecodecamp.org/news/how-to-implement-azure-serverless-with-blazor-web-assembly/
 
 ### 7/7/2020
 #### *The Easiest Way to Version NuGet Packages*
