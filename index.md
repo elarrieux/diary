@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 7/28/2020
+#### *A port of lunr.js to .NET Core. Lunr is a bit like Solr, but much smaller and not as bright.*
+https://github.com/bleroy/lunr-core
+
 ### 7/11/2020
 #### *How to Implement Azure Serverless with Blazor WebAssembly*
 https://www.freecodecamp.org/news/how-to-implement-azure-serverless-with-blazor-web-assembly/
