@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 9/17/2020
+#### *Using OpenAPI with .NET Core*
+https://developers.redhat.com/blog/2020/09/16/using-openapi-with-net-core/
+
 ### 8/31/2020
 #### *Build a REST API in .NET Core*
 https://www.red-gate.com/simple-talk/dotnet/c-programming/build-a-rest-api-in-net-core/
