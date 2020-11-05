@@ -1,5 +1,9 @@
 # A .NET developer's daily journal
 
+### 11/05/2020
+#### *IMPLEMENT A BLAZOR FULL TEXT SEARCH USING AZURE COGNITIVE SEARCH*
+https://damienbod.com/2020/11/02/implement-a-blazor-full-text-search-using-azure-cognitive-search/
+
 ### 9/17/2020
 #### *Using OpenAPI with .NET Core*
 https://developers.redhat.com/blog/2020/09/16/using-openapi-with-net-core/
